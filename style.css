@@ -69,6 +69,13 @@ h1 {
     margin: 1em 0;
 }
 
+.img-placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(172, 172, 172);
+}
+
 .random-information {
     width: 70%;
     margin: auto;
@@ -171,4 +178,14 @@ li {
 a {
     text-decoration: none;
     color: #e5e7eb;
+}
+
+footer {
+    color: #e5e7eb;
+    background-color: #1f2937;
+    letter-spacing: 0.05em;
+    font-weight: lighter;
+    padding: 3em 0;
+    display: flex;
+    justify-content: center;
 }
